@@ -1,6 +1,6 @@
 {
   "name": "occupancy-tool-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "性能检测工具-检测、数据入库存储部分代码",
   "main": "index.js",
   "scripts": {
