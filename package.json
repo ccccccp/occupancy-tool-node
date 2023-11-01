@@ -1,11 +1,12 @@
 {
   "name": "occupancy-tool-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "性能检测工具-检测、数据入库存储部分代码",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/ccccccp/occupancy-tool-node",
   "author": "",
   "license": "ISC",
   "dependencies": {
